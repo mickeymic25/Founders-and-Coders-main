@@ -1,9 +1,10 @@
 body {
-  background: black;
+  background: blueviolet;
 }
 #canvas-1 {
-  border: 8px #ffff solid;
-  padding: 80px;
+  border: 8px white solid;
+  background-image: url(images/layer06_sky.png);
   height: 600px;
-  width: 600px;
+  width: 1000px;
+  transform: translate(50px, 50px);
 }
